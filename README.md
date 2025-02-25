@@ -3,7 +3,7 @@
 - ⭐️ I recently graduated with my Master's in Management Analytics at McGill University
 - 🌱 Interests:
     - Project Management, Project Development, Business Intelligence, Business Analysis
-- 👩‍💻 Technical Skills:
+- 💻 Technical Skills:
     - Programming: Python, R, SQL, Javascript, HTML/CSS
     - Data Tools: Excel, Databricks, SPSS, Microsoft Azure
     - Visualization & User Interfacing: Figma, PowerBI, Tableau, Looker Studio
