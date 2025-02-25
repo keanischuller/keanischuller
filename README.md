@@ -1,4 +1,11 @@
 - 👋 Hi, I’m Keani!
-- 👀 I’m interested in using data to create positive societal impact and bring changes into this world!
-- 🌱 I recently graduated with my Master's in Management Analytics at McGill University
+- 👀 I want to use data to create positive societal impact and bring changes into this world!
+- ⭐️ I recently graduated with my Master's in Management Analytics at McGill University
+- 🌱 Interests:
+    - Project Management, Project Development, Business Intelligence, Business Analysis
+- 👩‍💻 Technical Skills:
+    - Programming: Python, R, SQL, Javascript, HTML/CSS
+    - Data Tools: Excel, Databricks, SPSS, Microsoft Azure
+    - Visualization & User Interfacing: Figma, PowerBI, Tableau, Looker Studio
+    - Others: Microsoft 365, Machine Learning, Natural Language Processing,
 - 📫 You can reach me via email at keani.schuller@mail.mcgill.ca
