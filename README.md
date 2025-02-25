@@ -7,5 +7,5 @@
     - Programming: Python, R, SQL, Javascript, HTML/CSS
     - Data Tools: Excel, Databricks, SPSS, Microsoft Azure
     - Visualization & User Interfacing: Figma, PowerBI, Tableau, Looker Studio
-    - Others: Microsoft 365, Machine Learning, Natural Language Processing,
+    - Others: Microsoft 365, Machine Learning, Natural Language Processing
 - 📫 You can reach me via email at keani.schuller@mail.mcgill.ca
